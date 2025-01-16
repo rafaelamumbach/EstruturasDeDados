@@ -1,4 +1,3 @@
 ---
-#### Estudo sobre  Estruturas de Dados em linguagem C.
-##### Conceitos básicos.
----
+#### Estudo - Estruturas de Dados em linguagem C
+###### Conceitos básicos
