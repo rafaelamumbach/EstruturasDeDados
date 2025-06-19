@@ -1,3 +1,3 @@
 ---
-#### Estudo - Estruturas de Dados em linguagem C
-###### Conceitos básicos
+#### 🖥️ estruturas-de-dados
+###### Conceitos e estudo básicos - estruturas de dados em linguagem C.
